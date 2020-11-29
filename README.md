@@ -1,9 +1,8 @@
-# Zehn Diskussionsvorschläge für eine lebenswertere Sillemstraße
+# Diskussionsvorschläge für eine lebenswerte und verkehrsgerechte Sillemstraße
 ## "Beitrag zum Beteiligungsverfahrens des Bezirksamts Eimsbüttel zur *Förderung des Radverkehrs in Eimsbüttel*"
 ----
 
-*Artur Tarassow*
-*29-11-2020*
+*Artur Tarassow, den 29-11-2020*
 
 
 Im Rahmen des offenen Beteiligungsverfahrens des Bezirksamts Eimsbüttel (Hamburg) zur "Förderung des Radverkehrs in Eimsbüttel" (https://beteiligung.hamburg/radverkehr-eimsbuettel) und der einhergehenden Neuplanung der Sillemstraße habe ich einige Vorschläge an die zuständige Behörde gesandt.
@@ -14,9 +13,9 @@ Dies ist ein "erster Wurf", um ein paar Ansichten/ Fakten zusammenzufassen und e
 
 
 # Vorschläge für eine verbesserte Verkehrs- und Lebensqualität in der Sillemstraße
-1) Einführung des Einbahnstraßenverkehrs für Autos in der Sillemstraße auf einer einzigen Fahrbahn (Standardbreite) um Platz für andere Verkehrsteilnehmer zu erhalten. Die Osterstraße als auch die Lappenbergsallee bieten bereits jetzt den verkehrstechnischen Ausgleich, da man ohne Probleme „im Kreis“ durch die Sillemstraße fahren kann.
+1) Einführung des Einbahnstraßenverkehrs für den Autoverkehr in der Sillemstraße auf einer einzigen Fahrbahn (Standardbreite) um Platz für andere Verkehrsteilnehmer zu schaffen. Die Osterstraße als auch die Lappenbergsallee bieten bereits jetzt den verkehrstechnisch notwendigen Ausgleich.
 
-2) Parken sollte „nur noch“ auf einer Seite der Straße ermöglicht werden (das sage ich als Fahrzeughalter). Dadurch kann Platz für "lebendige Aktivitäten" der Menschen gewonnen werden.
+2) Parken auf lediglich einer Seite der Straße (siehe dazu Vorschlag *8*). Dadurch kann Platz für die notwendigen Umbauten gewonnen werden.
 
 3) Nutzung des gewonnen Platzes für die Verbreiterung der Gehwege auf beiden Seiten der Straße.
 
@@ -28,15 +27,16 @@ Dies ist ein "erster Wurf", um ein paar Ansichten/ Fakten zusammenzufassen und e
 
 7) Freigewordenen Raum für den Ausbau der Radwege in jeweils beide Richtungen nutzen. Sofern möglich, Überholmöglichkeiten zwischen Radfahrern – ohne Behinderung des Gegenverkehrs – verkehrstechnisch etablieren.
 
-8) Bau eines über- oder unterirdischen automatisierten Parkhauses als Ersatz für den Wegfall der Auto-Parkplätze um die allgemeine Akzeptanz der Umbaumaßnahmen zu erhöhen. So werden Autos sicher (überwacht) geparkt und der kostbare öffentliche Raum effizient genutzt. Das Parkhaus kann von außen begrünt werden, es können Boulder- oder offizielle Graffiti-Wände als auch eine Dachteerasse mit Cafe, Lounge, Restaurant etc. geplant werden um das gebäude vielseitig zu nutzen. Hier ein Beispiel, wie so ein Parkhaus bereits heute funktioniert (*Hinweis: Das Video ist bereits 8 Jahre alt!*): https://youtu.be/LOR25PjV0wI
+8) Bau eines über- oder unterirdischen automatisierten Parkhauses in fußläufiger Nähe (max. 10 Minuten?) als Ersatz für den Wegfall der Auto-Parkplätze. Damit soll die allgemeine Akzeptanz der Umbaumaßnahmen erhöht werden. Dort werden Autos sicher (überwacht) geparkt und der kostbare öffentliche Raum kann effektiv genutzt werden. Das Parkhaus kann von außen begrünt werden, es können Boulder- oder offizielle Graffiti-Wände als auch eine Dachteerasse mit Cafe, Lounge, Restaurant etc. geplant werden um das Gebäude vielseitig zu nutzen. Hier ein Beispiel, wie so ein Parkhaus bereits heute funktioniert (*Hinweis: Das Video ist bereits 8 Jahre alt!*): https://youtu.be/LOR25PjV0wI
 
 9) Ausbau der Vorgärten der Kindergärten in der Sillemstraße – den wenigen Platz, den wir Kindern hier zum Spielen bieten ist eine Schande.
 
 10) Ausbau der Abstellmöglichkeiten für Räder. Mehrebenen-Konzept der Parkstation an der "U Hohen Luft" aufgreifen um den Platz effektiv nutzen zu können.
 
+11) Sitzmöglichkeiten und kleine "grüne Inseln" schaffen. Gerade in einer alternden Gesellschaft sind Sitzmöglichkeiten im öffentlichen Raum nötig. Darüber hinaus wirken diese als Sammelpunkt für ein gutes Zusammenleben.
+
 
 # Erläuterungen zu der aktuellen Lebens- und Verkehrssituation in der Sillemstraße
-
 
 ## Situation der „Lebensqualität“
 - Die Sillemstraße bietet für keinen der Verkehrsteilnehmer eine „gute“ Verkehrsqualität.
@@ -47,11 +47,11 @@ Dies ist ein "erster Wurf", um ein paar Ansichten/ Fakten zusammenzufassen und e
 
 - Für Fußgänger ist diese Straße eine Schande – dies insbesondere für Ältere und Kleinkinder.
 
-- Der kostbare öffentliche Raum wird nicht für ein lebendiges Zusammenleben genutzt, sondern überwiegend für kalten Stahl, der überwiegend in Form von Automobilen herumsteht.
+- Der begrenzte öffentliche Raum wird nicht für ein lebendiges Zusammenleben genutzt, sondern um Automobile zu parken.
 
 
 ## Aktuelle Verkehrs-Situation in der Sillemstraße
-- Die Sillemstraße (im folgenden Sillemstraße genannt) ist zweispurig für Autos befahrbar.
+- Die Sillemstraße ist zweispurig für Autos befahrbar.
 
 - Die Sillemstraße ist beidseitig mit Autos beparkt.
 
@@ -60,7 +60,6 @@ Dies ist ein "erster Wurf", um ein paar Ansichten/ Fakten zusammenzufassen und e
 - Es gibt keine ausgewiesenen Radwege auf der Sillemstraße.
 
 - Die Straße ist stark frequentiert von Fußgängern (Wohnstraße) jeglichen Alters (hoher Anteil an Kleinkindern durch Kindergärten), Radfahrern und Autos.
-
 
 
 ## Situation für Fußgänger – insbesondere Anwohner

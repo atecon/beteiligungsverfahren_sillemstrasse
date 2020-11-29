@@ -1,10 +1,9 @@
----
-title: "Zehn Diskussionsvorschläge für eine lebenswertere Sillemstraße"
-subtitle: "Beitrag zum Beteiligungsverfahrens des Bezirksamts Eimsbüttel zur *Förderung des Radverkehrs in Eimsbüttel*"
-date: 29-11-2020
-author: "Dr. Artur Tarassow"
-geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
----
+# Zehn Diskussionsvorschläge für eine lebenswertere Sillemstraße
+## "Beitrag zum Beteiligungsverfahrens des Bezirksamts Eimsbüttel zur *Förderung des Radverkehrs in Eimsbüttel*"
+
+*Artur Tarassow*
+*29-11-2020*
+----
 
 
 Im Rahmen des offenen Beteiligungsverfahrens des Bezirksamts Eimsbüttel (Hamburg) zur "Förderung des Radverkehrs in Eimsbüttel" (https://beteiligung.hamburg/radverkehr-eimsbuettel) und der einhergehenden Neuplanung der Sillemstraße habe ich einige Vorschläge an die zuständige Behörde gesandt.
